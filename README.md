@@ -1,2 +1,2 @@
 # github-api-test
-Repo to test github api
+This repo is used to test github rest api
